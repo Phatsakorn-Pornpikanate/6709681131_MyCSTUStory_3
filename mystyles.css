@@ -254,5 +254,11 @@ footer
 }
 
 @media (max-width: 360px) /*iphone*/{
-
+    h1, h2 {
+        font-size: 1.5em;
+    }
+    
+    nav, footer {
+        padding: 10px 0;
+    }
 }
