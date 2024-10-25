@@ -237,3 +237,11 @@ footer
     position: static; 
     margin: 0;
 }
+
+@media (max-width: 768px) /*tablet*/{
+    
+}
+
+@media (max-width: 360px) /*iphone*/{
+
+}
